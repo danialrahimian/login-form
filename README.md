@@ -12,9 +12,7 @@
 - [✨ Features](#-features)
 - [🧰 Tech Stack](#-tech-stack)
 - [🚀 Getting Started](#-getting-started)
-- [🗂 Project Structure](#-project-structure)
-- [🧱 Architecture Notes](#-architecture-notes)
-- [🔐 Validation Rules](#-validation-rules)
+
 
 ## ✨ Features
 
