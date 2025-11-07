@@ -15,11 +15,6 @@
 - [🗂 Project Structure](#-project-structure)
 - [🧱 Architecture Notes](#-architecture-notes)
 - [🔐 Validation Rules](#-validation-rules)
-- [📡 API & Data Flow](#-api--data-flow)
-- [🧭 Roadmap Ideas](#-roadmap-ideas)
-- [🤝 Contributing](#-contributing)
-- [📝 License](#-license)
-- [🙏 Acknowledgements](#-acknowledgements)
 
 ## ✨ Features
 
